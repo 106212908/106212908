@@ -1,5 +1,3 @@
-## Data lab notebook
-
 <div align="center">
 
 # Pang Jun Hao
